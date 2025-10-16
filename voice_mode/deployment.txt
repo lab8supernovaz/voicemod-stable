@@ -2,3 +2,4 @@ Summarize compliance checks
 List rate limit configs
 Update API limits
 Schedule publishing plan
+Note deprecated functions
