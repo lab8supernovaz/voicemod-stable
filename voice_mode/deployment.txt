@@ -9,3 +9,4 @@ Record HR initiatives
 Summarize journalist list
 Draft loyalty program
 Draft emergency contacts
+Fix minor issues in workflow
