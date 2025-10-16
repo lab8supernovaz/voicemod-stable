@@ -3,3 +3,4 @@ Summarize giveaway notes
 List missing translations
 Update dropout rate
 Plan team retro
+Draft pseudonymization plan
