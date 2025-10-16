@@ -8,3 +8,4 @@ Record inflation impact
 Review WAF settings
 Note encryption methods
 Update status of tasks
+Note design refresh
