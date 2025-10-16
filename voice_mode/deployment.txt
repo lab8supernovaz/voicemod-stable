@@ -11,3 +11,4 @@ Update status of tasks
 Note design refresh
 Define success criteria
 Plan data migration
+Update partner map
