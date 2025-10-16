@@ -22,3 +22,4 @@ Summarize market trends
 Simplify configuration
 Record media queries
 Record stakeholder feedback
+List domain records
