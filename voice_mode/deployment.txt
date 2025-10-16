@@ -1,3 +1,4 @@
 Update outreach contacts
 Summarize giveaway notes
 List missing translations
+Update dropout rate
