@@ -5,3 +5,4 @@ Update dropout rate
 Plan team retro
 Draft pseudonymization plan
 Record inflation impact
+Review WAF settings
