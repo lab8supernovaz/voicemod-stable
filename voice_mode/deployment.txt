@@ -8,3 +8,4 @@ Update deletion logs
 Record HR initiatives
 Summarize journalist list
 Draft loyalty program
+Draft emergency contacts
