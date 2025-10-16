@@ -14,3 +14,4 @@ Update test matrix
 Note trending topics
 Note suspicious patterns
 Summarize compliance checks
+Collect metrics for dashboard
