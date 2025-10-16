@@ -7,3 +7,4 @@ Draft pseudonymization plan
 Record inflation impact
 Review WAF settings
 Note encryption methods
+Update status of tasks
