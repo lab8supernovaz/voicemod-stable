@@ -11,3 +11,4 @@ Draft loyalty program
 Draft emergency contacts
 Fix minor issues in workflow
 Update test matrix
+Note trending topics
