@@ -12,3 +12,4 @@ Note design refresh
 Define success criteria
 Plan data migration
 Update partner map
+Switch to a managed database service for better reliability
